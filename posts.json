@@ -9,9 +9,9 @@
             "markdown": "```javascript\nfunction HelloComponent() {\n  return <h1>Hello, world!</h1>;\n}\n```",
             "author": {
                 "id": 101,
-                "name": "Ana Beatriz",
-                "username": "anabeatriz_dev",
-                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/anabeatriz_dev.png"
+                "name": "Nicoly Yume",
+                "username": "Nicoly Yume_dev",
+                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/Nicoly Yume_dev.png"
             }
         },
         {
@@ -23,9 +23,9 @@
             "markdown": "```css\n.grid-container {\n  display: grid;\n  grid-template-columns: auto auto auto;\n}\n```",
             "author": {
                 "id": 101,
-                "name": "Ana Beatriz",
-                "username": "anabeatriz_dev",
-                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/anabeatriz_dev.png"
+                "name": "Nicoly Yume",
+                "username": "Nicoly Yume_dev",
+                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/Nicoly Yume_dev.png"
             }
         },
         {
@@ -37,9 +37,9 @@
             "markdown": "```javascript\nnew Vue({\n  el: '#app',\n  data: {\n    message: 'Olá Vue!'\n  }\n})\n```",
             "author": {
                 "id": 101,
-                "name": "Ana Beatriz",
-                "username": "anabeatriz_dev",
-                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/anabeatriz_dev.png"
+                "name": "Nicoly Yume",
+                "username": "Nicoly Yume_dev",
+                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/Nicoly Yume_dev.png"
             }
         },
         {
@@ -51,9 +51,9 @@
             "markdown": "```html\n<a href=\"#\" aria-label=\"Saiba mais sobre acessibilidade\">Saiba mais</a>\n```",
             "author": {
                 "id": 101,
-                "name": "Ana Beatriz",
-                "username": "anabeatriz_dev",
-                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/anabeatriz_dev.png"
+                "name": "Nicoly Yume",
+                "username": "Nicoly Yume_dev",
+                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/Nicoly Yume_dev.png"
             }
         },
         {
@@ -65,9 +65,9 @@
             "markdown": "```typescript\nfunction greeter(person: string) {\n  return 'Hello, ' + person;\n}\n```",
             "author": {
                 "id": 101,
-                "name": "Ana Beatriz",
-                "username": "anabeatriz_dev",
-                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/anabeatriz_dev.png"
+                "name": "Nicoly Yume",
+                "username": "Nicoly Yume_dev",
+                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/Nicoly Yume_dev.png"
             }
         },
         {
@@ -79,9 +79,9 @@
             "markdown": "```javascript\nconst MemoizedComponent = React.memo(function MyComponent(props) {\n  /* render using props */\n});\n```",
             "author": {
                 "id": 101,
-                "name": "Ana Beatriz",
-                "username": "anabeatriz_dev",
-                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/anabeatriz_dev.png"
+                "name": "Nicoly Yume",
+                "username": "Nicoly Yume_dev",
+                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/Nicoly Yume_dev.png"
             }
         },
         {
@@ -93,9 +93,9 @@
             "markdown": "```css\n.flex-container {\n  display: flex;\n  justify-content: space-around;\n}\n```",
             "author": {
                 "id": 101,
-                "name": "Ana Beatriz",
-                "username": "anabeatriz_dev",
-                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/anabeatriz_dev.png"
+                "name": "Nicoly Yume",
+                "username": "Nicoly Yume_dev",
+                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/Nicoly Yume_dev.png"
             }
         },
         {
@@ -107,9 +107,9 @@
             "markdown": "```typescript\n@Component({\n  selector: 'my-app',\n  template: '<h1>Olá Angular</h1>'\n})\nexport class AppComponent { }\n```",
             "author": {
                 "id": 101,
-                "name": "Ana Beatriz",
-                "username": "anabeatriz_dev",
-                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/anabeatriz_dev.png"
+                "name": "Nicoly Yume",
+                "username": "Nicoly Yume_dev",
+                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/Nicoly Yume_dev.png"
             }
         },
         {
@@ -121,9 +121,9 @@
             "markdown": "```javascript\nconst reducer = (state = initialState, action) => {\n  switch (action.type) {\n    case 'ACTION_TYPE':\n      return { ...state, ...action.payload };\n    default:\n      return state;\n  }\n};\n```",
             "author": {
                 "id": 101,
-                "name": "Ana Beatriz",
-                "username": "anabeatriz_dev",
-                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/anabeatriz_dev.png"
+                "name": "Nicoly Yume",
+                "username": "Nicoly Yume_dev",
+                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/Nicoly Yume_dev.png"
             }
         },
         {
@@ -135,9 +135,9 @@
             "markdown": "```scss\n$primary-color: #333;\nbody {\n  color: $primary-color;\n}\n```",
             "author": {
                 "id": 101,
-                "name": "Ana Beatriz",
-                "username": "anabeatriz_dev",
-                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/anabeatriz_dev.png"
+                "name": "Nicoly Yume",
+                "username": "Nicoly Yume_dev",
+                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/Nicoly Yume_dev.png"
             }
         },
         {
@@ -149,9 +149,9 @@
             "markdown": "```javascript\nmodule.exports = {\n  entry: './path/to/my/entry/file.js'\n};\n```",
             "author": {
                 "id": 101,
-                "name": "Ana Beatriz",
-                "username": "anabeatriz_dev",
-                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/anabeatriz_dev.png"
+                "name": "Nicoly Yume",
+                "username": "Nicoly Yume_dev",
+                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/Nicoly Yume_dev.png"
             }
         },
         {
@@ -163,9 +163,9 @@
             "markdown": "```javascript\nnew Vue({\n  el: '#app',\n  data: {\n    message: 'Bem-vindo à sua SPA Vue.js!'\n  }\n});\n```",
             "author": {
                 "id": 101,
-                "name": "Ana Beatriz",
-                "username": "anabeatriz_dev",
-                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/anabeatriz_dev.png"
+                "name": "Nicoly Yume",
+                "username": "Nicoly Yume_dev",
+                "avatar": "https://raw.githubusercontent.com/viniciosneves/code-connect-assets/main/authors/Nicoly Yume_dev.png"
             }
         }
     ]
