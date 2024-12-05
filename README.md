@@ -11,11 +11,17 @@ Além disso, a aplicação permite que os usuários explorem tendências atuais 
 
 ## Funcionalidades
 -**Exemplos de Código CSS**: Explore trechos de código CSS com explicações detalhadas. Cada exemplo inclui uma pré-visualização em tempo real para facilitar o aprendizado.
+
 -**Dicas e Boas Práticas**: Receba sugestões para melhorar a eficiência do seu código, aprender sobre nomenclaturas de classes, organização de arquivos e como evitar problemas comuns.
+
 -**Componentes Pré-Estilizados**: Acesse uma biblioteca de componentes como botões, cards, modais e tabelas, todos configurados com estilos modernos e personalizáveis.
+
 -**Tutoriais Interativos**: Pratique com exercícios guiados que ensinam como aplicar propriedades CSS específicas, como Flexbox, Grid, animações e muito mais.
+
 -**Interface Moderna e Responsiva**: Navegue facilmente por uma interface limpa e intuitiva, adaptada para dispositivos móveis e desktops.
+
 -**Personalização de Temas**: Experimente diferentes temas de cores e configurações para entender como funcionam variáveis CSS e o conceito de "Design System".
+
 -**Exploração de Design Avançado**: Descubra como aplicar conceitos como responsividade, transições e animações para criar experiências dinâmicas e atraentes.
 
 ## Instalação
