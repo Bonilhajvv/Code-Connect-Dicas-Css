@@ -1,5 +1,5 @@
 # Code Connect -  Um Aplicativo para Auxiliar no Desenvolvimento de Aplicações com CSS
-![code_connect](https://github.com/user-attachments/assets/f7cfabe9-61e9-45b1-9304-881294b2348b)
+![code_connect_css](https://github.com/user-attachments/assets/2ee26a21-d72b-4179-ab05-588d8ce80dfb)
 
 
 ## Sobre o Projeto
